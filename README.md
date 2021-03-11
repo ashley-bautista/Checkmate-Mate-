@@ -39,13 +39,13 @@
 ![](images/OMT%20Factory%20Method.jpg)
 
 ## Examples of Program Running
- *Welcome*: Shown in the image below is our welcome message, which is output at the very beginning of our chess game. 
+ * *Welcome*: Shown in the image below is our welcome message, which is output at the very beginning of our chess game. 
 ![](images/welcome.png)
- *Beginning Menu*: Once the user hits enter after the welcome message, the previous screen is cleared and they are led to a screen outputting our logo and beginning menu where they can choose to play, quit, or load a previous game.
+ * *Beginning Menu*: Once the user hits enter after the welcome message, the previous screen is cleared and they are led to a screen outputting our logo and beginning menu where they can choose to play, quit, or load a previous game.
 ![](images/gae.png)
- *Board*: If the user chooses ‘P’ or ‘p’, they are led to this screen where they begin their 2-player chess game. Along with the board, they are given a game menu to choose whether they want to move a piece, surrender, undo a move, save the game, or quit the game.
+ * *Board*: If the user chooses ‘P’ or ‘p’, they are led to this screen where they begin their 2-player chess game. Along with the board, they are given a game menu to choose whether they want to move a piece, surrender, undo a move, save the game, or quit the game.
 ![](images/game2.png)
- *Game Play*: This image displays an output shown in the middle of a match between the 2 players.
+ * *Game Play*: This image displays an output shown in the middle of a match between the 2 players.
 ![](images/game3.png)
- *Quit*: Once the user hits ‘Q’ or ‘q’, they are led to this goodbye message and the game quits.
+ * *Quit*: Once the user hits ‘Q’ or ‘q’, they are led to this goodbye message and the game quits.
 ![](images/outro.png)
