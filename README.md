@@ -45,9 +45,10 @@
 ![](images/gae.png)
  * *Board*: If the user chooses ‘P’ or ‘p’, they are led to this screen where they begin their 2-player chess game. Along with the board, they are given a game menu to choose whether they want to move a piece(M), surrender(S), undo a move(U), save the game(S), or quit the game(Q).
  
- * * White* chess pieces are denoted by the left side of the board(lower case letters) and the left is the black chess pieces(upper case letters). Initial by either side can only be constituded by moving the pawns forward. Only a pawn's initial move allows it to move two spaces forward. Pieces behind the pawns are not allow make their first moves until there is an opening for them to move without touching/colliding with pieces of the same color. Pieces of the same color cannot eat each other nor can a piece not move position once selected.
+ * White* chess pieces are denoted by the left side of the board(lower case letters) and the left is the black chess pieces(upper case letters). Initial by either side can only be constituded by moving the pawns forward. Only a pawn's initial move allows it to move two spaces forward. Pieces behind the pawns are not allow make their first moves until there is an opening for them to move without touching/colliding with pieces of the same color. Pieces of the same color cannot eat each other nor can a piece not move position once selected.
 ![](images/game2.png)
  * *Game Play*: This image displays an output shown in the middle of a match between the 2 players. Pawns may only move forward. Bishops can only move diagonally. Rooks can move up, down and sideways but not diagonally. Knights move in an "L" and are the only one which can move even if its path is not cleared.  Once either player manages to eat their enemenie's king the game is over and playe with the king that still stands is the winner. The queen can move in any direction she was as far as she want. Lastly the king can move on position at a time but in any direction.
+ 
 ![](images/game3.png)
  * *Quit*: Once the user hits ‘Q’ or ‘q’, they are led to this goodbye message and the game quits.
 ![](images/outro.png)
