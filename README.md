@@ -38,6 +38,11 @@
  *Factory Method Pattern*: The functionality of the abstract factory pattern can be portrayed by its ability to create objects without having to specify the exact class ofthe object that will be created. This allows us to explicitly declare interfaces for each distinct product of the Piece family without having them to specifically be dependent on the buiness logic of the interface.
 ![](images/OMT%20Factory%20Method.jpg)
 
+## Installing Chess
+*Copy, Paste*: To allow you to enjoy chess with your friends at your easiest convenience just copy and paste the content of our files to your IDE of choice. Make sure you can run C++11 and compile. After this you should get an executable by the title of 'a.out'. Run the executable and enjoy chess. 
+
+
+
 ## Using the Program
  * *Welcome*: Shown in the image below is our welcome message, which is output at the very beginning of our chess game. 
 ![](images/welcome.png)
